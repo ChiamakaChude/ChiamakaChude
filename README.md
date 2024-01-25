@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chiamaka</h1>
-<h3 align="center">I am an aspiring Data Scientist with experience in Full Stack Web Development. Currently pursuing my Master's in Data Science at the University of Surrey.</h3>
+<h3 align="left">I am an aspiring Data Scientist with experience in Full Stack Web Development. Currently pursuing my Master's in Data Science at the University of Surrey.</h3>
 
-<h3 align="left">Aiming to contribute skills and knowledge in an innovative and diverse environment, absorb new ideas, make a meaningful impact, and gain valuable professional experience within the field. \nConnect with me:</h3>
+<h3 align="left">Aiming to contribute skills and knowledge in an innovative and diverse environment, absorb new ideas, make a meaningful impact, and gain valuable professional experience within the field.</h3>
 
 <h3 align="left">🚀 Let's connect, collaborate, and code! Explore my repositories to see my coding journey and projects. Excited about the future of tech and data!</h3>
 <p align="left">
