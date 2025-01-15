@@ -27,6 +27,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"> 
   </a>
   <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://airflow.apache.org/_images/powered-by-airflow.png" alt="Airflow" width="40" height="40"/> 
+    <img src="[https://airflow.apache.org/_images/powered-by-airflow.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMLh0LACMHKxVuDHLpBPe58gx8Fl-LX1S0SfzyxOEd9Oyxa6qhcq3kYj44-yj5HabhX2Q&usqp=CAU)" alt="Airflow" width="40" height="40"/> 
   </a>
 </p>
