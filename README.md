@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiamaka</h1>
-<h3 align="left">I am a Data Scientist with a Master's degree in Data Science from the University of Surrey, specializing in data engineering, machine learning, and AI.</h3>
+<h3 align="left">I am a Data Engineer with a Master's degree in Data Science from the University of Surrey</h3>
 
 <h3 align="left">Aiming to contribute skills and knowledge in an innovative and diverse environment, absorb new ideas, make a meaningful impact, and gain valuable professional experience within the field.</h3>
 
