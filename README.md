@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chiamaka</h1>
-<h3 align="left">Data Engineer with an M.Sc. in Data Science, specialising in building production-grade data pipelines, cloud-native infrastructure, and event-driven architectures on AWS and GCP.</h3>
+<h3 align="left">AWS Certified Cloud Practitioner | Data Engineer with an M.Sc. in Data Science, specialising in building production-grade data pipelines, cloud-native infrastructure, and event-driven architectures on AWS and GCP.</h3>
 <h3 align="left">I design and deliver scalable ETL/ELT systems, automate data workflows, and implement CI/CD pipelines that keep data reliable and analytics-ready at scale.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
