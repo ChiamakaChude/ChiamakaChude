@@ -3,7 +3,7 @@
 <h3 align="left">I design and deliver scalable ETL/ELT systems, automate data workflows, and implement CI/CD pipelines that keep data reliable and analytics-ready at scale.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
   <!-- Languages -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -47,4 +47,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
   </a>
-</p>
